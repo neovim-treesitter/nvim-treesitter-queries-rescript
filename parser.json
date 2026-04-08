@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/rescript-lang/tree-sitter-rescript",
   "semver": false,
-  "lang": "rescript",
-  "parser_version": "43c2f1f35024918d415dc933d4cc534d6419fedf"
+  "parser_version": "43c2f1f35024918d415dc933d4cc534d6419fedf",
+  "lang": "rescript"
 }
